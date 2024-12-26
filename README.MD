@@ -12,3 +12,7 @@ Welcome to the **100 Days of Machine Learning** challenge! This repository will 
 ## Table of Contents
 
 1. [Day 1: Introduction to Data Preprocessing](Day-1-Understanding-Data-Processing)
+2. [Day 2: Automate Pre processing/Basic Visualization](Day-2-Automate-Pre-processing-Visualisation)
+3. [Day 3: Exploratory Data Analysis Part 1](Day-3-Exploratory-Data-Analysis-Part-1)
+4. [Day 4: Advanced Exploratory Data Analysis](Day-4-Advanced-Exploratory-Data-Analysis)
+5. [Day 5: Linear Regression](Day-5-Linear-Regression)
