@@ -16,3 +16,6 @@ Welcome to the **100 Days of Machine Learning** challenge! This repository will 
 3. [Day 3: Exploratory Data Analysis Part 1](Day-3-Exploratory-Data-Analysis-Part-1)
 4. [Day 4: Advanced Exploratory Data Analysis](Day-4-Advanced-Exploratory-Data-Analysis)
 5. [Day 5: Linear Regression](Day-5-Linear-Regression)
+6. [Day 6: Linear Regression with Multiple Variables and Polynomial Regression](Day-6-Multiple-Linear-Regression)
+7. [Day 7: Advanced Linear Regression with L1 and L2 Regularization](Day-7-Advanced-Linear-Regression)
+   
