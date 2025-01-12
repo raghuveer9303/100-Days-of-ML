@@ -18,4 +18,6 @@ Welcome to the **100 Days of Machine Learning** challenge! This repository will 
 5. [Day 5: Linear Regression](Day-5-Linear-Regression)
 6. [Day 6: Linear Regression with Multiple Variables and Polynomial Regression](Day-6-Multiple-Linear-Regression)
 7. [Day 7: Advanced Linear Regression with L1 and L2 Regularization](Day-7-Advanced-Linear-Regression)
-   
+8. [Day 8: Logistic Regression Fundamentals](Day-8-Logistic-Regression-Fundamentals)
+9. [Day 9: Advanced Logistic Regression](Day-9-Advanced-Logistic-Regression)
+10. [Day 10: Multi class Logistic Regression](Day-10-Multiclass-Logistic-Regression)
